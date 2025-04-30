@@ -1,2 +1,3 @@
-# CTFs
-Folder where i documented the ctfs i solved
+# CTF Notes
+This folder contains my CTF writeups.
+
